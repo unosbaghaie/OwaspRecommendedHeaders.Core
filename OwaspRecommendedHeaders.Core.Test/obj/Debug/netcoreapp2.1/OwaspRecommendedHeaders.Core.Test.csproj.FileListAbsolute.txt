@@ -1,0 +1,16 @@
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.deps.json
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.runtimeconfig.json
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.runtimeconfig.dev.json
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.dll
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.pdb
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\obj\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.csprojResolveAssemblyReference.cache
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\obj\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.csproj.CoreCompileInputs.cache
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\obj\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.AssemblyInfoInputs.cache
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\obj\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.AssemblyInfo.cs
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\obj\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.dll
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\obj\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.Test.pdb
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.dll
+c:\users\y.baghaee\source\repos\OwaspRecommendedHeaders.Core\OwaspRecommendedHeaders.Core.Test\bin\Debug\netcoreapp2.1\OwaspRecommendedHeaders.Core.pdb
